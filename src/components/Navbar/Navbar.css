@@ -1,16 +1,17 @@
 
-.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
-  background-color: rgb(1, 15, 11);
+.MuiAppBar-colorPrimary {
+  background-color: rgb(75, 75, 216);
+}
+
+.MuiButtonBase-root:hover {
+  transform: scale(1.1);
+  background-color: rgb(16, 240, 54);
 }
 
 ul {
   background-color: rgb(29, 29, 82);
 }
 
-span:hover {
-  transform: scale(1.1);
-  background-color: rgb(6, 38, 99);
-}
 
 li:hover {
   transform: scale(1.1);
