@@ -19,7 +19,6 @@ function ShowCards() {
 
   async function getCourses() {
     const courses = await getApiCourses();
-    console.log(courses);
     updateCourses(courses);
   }
 
