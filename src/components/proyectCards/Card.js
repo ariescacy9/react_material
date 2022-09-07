@@ -29,7 +29,7 @@ function Card(props) {
           <h3>{props.name} </h3>
           <p>Total Quizzes: {props.totalQuizzes}</p>
           <p>Users: {props.users}</p>
-          <button><a href="https://es.larnu.com/" target="_blank">Go to learnU</a></button>
+          <button><a href="https://es.larnu.com/" target="_blank" rel="noreferrer">Go to learnU</a></button>
         </div>
       </div> 
     </div>
